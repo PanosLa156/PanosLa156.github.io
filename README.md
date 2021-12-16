@@ -1,6 +1,8 @@
-# PanosLa156.github.io
+# Panos Game Dev
 
-### This is my site
-### Quite cool is ain't it?
+# Beach Clean Up
+### This is a game inspired by #TeamSeas
+### All of the money made by this game will be donated to Team Seas,
+### Not only until January 1st, but for the hole life of the game
 
-_My website for all of my games!
+_My website for all of my games!_
