@@ -11,5 +11,5 @@
 
 
 ## Info
-#### [Discord Server](https://discord.gg/feuSJKQ7FA)
+#### [Discord Server](https://discord.gg/GsFmdrX4Nw)
 #### [WebSite](https://panosla156.github.io/)
